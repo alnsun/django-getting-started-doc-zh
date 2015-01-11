@@ -10,7 +10,7 @@ Django 入门
 New to Django? Or to Web development in general? Well, you came to the right
 place: read this material to quickly get up and running.
 
-对Django感到陌生? 一般的网站开发?
+Django新手? 一般的网站开发?
 好吧,你来对了地方:阅读这份材料快速开始实践吧.
 
 * :ref:`overview`
