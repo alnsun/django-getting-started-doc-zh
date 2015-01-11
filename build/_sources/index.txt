@@ -3,20 +3,27 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Django Getting Started's documentation!
+==================================================
+Django 入门
 ==================================================
 
-Contents:
+New to Django? Or to Web development in general? Well, you came to the right
+place: read this material to quickly get up and running.
+
+对Django感到陌生? 一般的网站开发?
+好吧,你来对了地方:阅读这份材料快速开始实践吧.
+
+* :ref:`overview`
+* :ref:`install`
+* :ref:`tutorial01`
+* :ref:`tutorial02`
+* :ref:`tutorial03`
+* :ref:`tutorial04`
+* :ref:`tutorial05`
+* :ref:`tutorial06`
+* :ref:`reusable-apps`
+* :ref:`whatnext`
+* :ref:`contributing`
 
 .. toctree::
    :maxdepth: 2
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
