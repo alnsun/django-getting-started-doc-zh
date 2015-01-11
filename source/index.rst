@@ -27,3 +27,10 @@ place: read this material to quickly get up and running.
 
 .. toctree::
    :maxdepth: 2
+
+索引和目录
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
